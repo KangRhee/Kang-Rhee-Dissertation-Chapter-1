@@ -1,6 +1,3 @@
-# Chapter 1 README
+# About this repository
 
-## Description
-
-To be completed later.
-
+This repository contains materials from the first chapter of my Ph.D. dissertation. The study examines the impact of U.S. retaliatory tariffs on Chinese imports on Vietnam's exports to the United States. Our findings show that Vietnam experienced the strongest export growth in sectors where China held a revealed comparative advantage (RCA) prior to the trade war, indicating significant trade diversion and substitution effects. Furthermore, this growth was also visible in sectors where Vietnam initially lacked a comparative advantage, suggesting the exploitation of untapped export opportunities. Finally, we show that the relocation of multinational corporations (MNCs) to Vietnam is closely associated with this export surge.
